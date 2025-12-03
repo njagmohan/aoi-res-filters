@@ -1,0 +1,68 @@
+date,rank,song,artist,last-week,peak-rank,weeks-on-board,genre
+2021-11-06,31,Love Nwantiti (Ah Ah Ah),CKay,31.0,31,6,African Music
+2021-10-30,31,Love Nwantiti (Ah Ah Ah),CKay,31.0,31,5,African Music
+2021-10-23,31,Love Nwantiti (Ah Ah Ah),CKay,35.0,31,4,African Music
+2021-10-16,35,Love Nwantiti (Ah Ah Ah),CKay,50.0,35,3,African Music
+2021-10-09,50,Love Nwantiti (Ah Ah Ah),CKay,80.0,50,2,African Music
+2021-10-02,80,Love Nwantiti (Ah Ah Ah),CKay,,80,1,African Music
+2015-10-10,46,Classic Man,Jidenna Featuring Roman GianArthur,39.0,22,21,African Music
+2015-10-03,39,Classic Man,Jidenna Featuring Roman GianArthur,33.0,22,20,African Music
+2015-09-26,33,Classic Man,Jidenna Featuring Roman GianArthur,30.0,22,19,African Music
+2015-09-19,30,Classic Man,Jidenna Featuring Roman GianArthur,25.0,22,18,African Music
+2015-09-12,25,Classic Man,Jidenna Featuring Roman GianArthur,22.0,22,17,African Music
+2015-09-05,22,Classic Man,Jidenna Featuring Roman GianArthur,23.0,22,16,African Music
+2015-08-29,23,Classic Man,Jidenna Featuring Roman GianArthur,24.0,23,15,African Music
+2015-08-22,24,Classic Man,Jidenna Featuring Roman GianArthur,24.0,24,14,African Music
+2015-08-15,24,Classic Man,Jidenna Featuring Roman GianArthur,25.0,24,13,African Music
+2015-08-08,25,Classic Man,Jidenna Featuring Roman GianArthur,27.0,25,12,African Music
+2015-08-01,27,Classic Man,Jidenna Featuring Roman GianArthur,30.0,26,11,African Music
+2015-07-25,30,Classic Man,Jidenna Featuring Roman GianArthur,26.0,26,10,African Music
+2015-07-18,26,Classic Man,Jidenna Featuring Roman GianArthur,34.0,26,9,African Music
+2015-07-11,34,Classic Man,Jidenna Featuring Roman GianArthur,50.0,34,8,African Music
+2015-07-04,50,Classic Man,Jidenna Featuring Roman GianArthur,60.0,50,7,African Music
+2015-06-27,60,Classic Man,Jidenna Featuring Roman GianArthur,62.0,60,6,African Music
+2015-06-20,62,Classic Man,Jidenna Featuring Roman GianArthur,78.0,62,5,African Music
+2015-06-13,78,Classic Man,Jidenna Featuring Roman GianArthur,74.0,74,4,African Music
+2015-06-06,74,Classic Man,Jidenna Featuring Roman GianArthur,81.0,74,3,African Music
+2015-05-30,81,Classic Man,Jidenna Featuring Roman GianArthur,89.0,81,2,African Music
+2015-05-23,89,Classic Man,Jidenna Featuring Roman GianArthur,,89,1,African Music
+1973-08-18,54,Soul Makossa,Manu Dibango,46.0,35,9,African Music
+1973-08-11,46,Soul Makossa,Manu Dibango,35.0,35,8,African Music
+1973-08-04,35,Soul Makossa,Manu Dibango,35.0,35,7,African Music
+1973-07-28,35,Soul Makossa,Manu Dibango,37.0,35,6,African Music
+1973-07-21,37,Soul Makossa,Manu Dibango,49.0,37,5,African Music
+1973-07-14,49,Soul Makossa,Manu Dibango,50.0,49,4,African Music
+1973-07-07,50,Soul Makossa,Manu Dibango,70.0,50,3,African Music
+1973-06-30,70,Soul Makossa,Manu Dibango,88.0,70,2,African Music
+1973-06-23,88,Soul Makossa,Manu Dibango,,88,1,African Music
+1972-04-22,24,The Lion Sleeps Tonight,Robert John,12.0,3,17,African Music
+1972-04-15,12,The Lion Sleeps Tonight,Robert John,10.0,3,16,African Music
+1972-04-08,10,The Lion Sleeps Tonight,Robert John,5.0,3,15,African Music
+1972-04-01,5,The Lion Sleeps Tonight,Robert John,3.0,3,14,African Music
+1972-03-25,3,The Lion Sleeps Tonight,Robert John,3.0,3,13,African Music
+1972-03-18,3,The Lion Sleeps Tonight,Robert John,3.0,3,12,African Music
+1972-03-11,3,The Lion Sleeps Tonight,Robert John,6.0,3,11,African Music
+1972-03-04,6,The Lion Sleeps Tonight,Robert John,7.0,6,10,African Music
+1972-02-26,7,The Lion Sleeps Tonight,Robert John,9.0,7,9,African Music
+1972-02-19,9,The Lion Sleeps Tonight,Robert John,14.0,9,8,African Music
+1972-02-12,14,The Lion Sleeps Tonight,Robert John,20.0,14,7,African Music
+1972-02-05,20,The Lion Sleeps Tonight,Robert John,38.0,20,6,African Music
+1972-01-29,38,The Lion Sleeps Tonight,Robert John,49.0,38,5,African Music
+1972-01-22,49,The Lion Sleeps Tonight,Robert John,73.0,49,4,African Music
+1972-01-15,73,The Lion Sleeps Tonight,Robert John,84.0,73,3,African Music
+1972-01-08,84,The Lion Sleeps Tonight,Robert John,89.0,84,2,African Music
+1972-01-01,89,The Lion Sleeps Tonight,Robert John,,89,1,African Music
+1968-02-10,85,Malayisha,Miriam Makeba,85.0,85,3,African Music
+1968-02-03,85,Malayisha,Miriam Makeba,85.0,85,2,African Music
+1968-01-27,85,Malayisha,Miriam Makeba,,85,1,African Music
+1967-12-16,32,Pata Pata,Miriam Makeba,19.0,12,11,African Music
+1967-12-09,19,Pata Pata,Miriam Makeba,19.0,12,10,African Music
+1967-12-02,19,Pata Pata,Miriam Makeba,12.0,12,9,African Music
+1967-11-25,12,Pata Pata,Miriam Makeba,18.0,12,8,African Music
+1967-11-18,18,Pata Pata,Miriam Makeba,21.0,18,7,African Music
+1967-11-11,21,Pata Pata,Miriam Makeba,26.0,21,6,African Music
+1967-11-04,26,Pata Pata,Miriam Makeba,36.0,26,5,African Music
+1967-10-28,36,Pata Pata,Miriam Makeba,46.0,36,4,African Music
+1967-10-21,46,Pata Pata,Miriam Makeba,73.0,46,3,African Music
+1967-10-14,73,Pata Pata,Miriam Makeba,93.0,73,2,African Music
+1967-10-07,93,Pata Pata,Miriam Makeba,,93,1,African Music
